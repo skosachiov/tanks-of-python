@@ -10,11 +10,9 @@ Tanks Of Python is the most compact Tkinter game that demonstrates the use of cl
 
 ## Control
 
-Left side:
-W, S, A, D. Shift_L
+Left side: `W`, `S`, `A`, `D`, `Shift_L`
 
-Right side:
-Up, Down, Left, Right. Shift_R
+Right side: `Up`, `Down`, `Left`, `Right`, `Shift_R`
 
 ## License
 
