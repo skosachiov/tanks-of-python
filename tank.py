@@ -13,7 +13,7 @@ class Tank(sprite.Sprite):
                 "s": "Down",
                 "a": "Left",
                 "d": "Right",
-                "Shift_L": "Shift_R" }
+                "shift_l": "Shift_R" }
 
     def __init__(self, app, side):
         super().__init__(self, app)
