@@ -2,8 +2,6 @@
 
 Tanks Of Python is the most compact Tkinter game that demonstrates the use of classes. The game is designed for two players.
 
-![Linux remote assistance](https://github.com/skosachiov/tanks-of-python/screenshot.png)
-
 ## Run
 
 python app-tanks.py
