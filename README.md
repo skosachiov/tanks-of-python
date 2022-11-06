@@ -11,7 +11,7 @@ python app-tanks.py
 ## Control
 
 Left side:
-w, s, a, d. Shift_L
+W, S, A, D. Shift_L
 
 Right side:
 Up, Down, Left, Right. Shift_R
