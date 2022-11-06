@@ -6,7 +6,7 @@ Tanks Of Python is the most compact Tkinter game that demonstrates the use of cl
 
 ## Run
 
-python app-tanks.py
+python tanks-of-python.py
 
 ## Control
 
