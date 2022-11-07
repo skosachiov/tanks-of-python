@@ -6,11 +6,8 @@ Tanks Of Python is the most compact Tkinter game that demonstrates the use of cl
 
 ## Install Python dependencies
 
-Linux:
-    'apt/dnf install python3-tkinter python3-pillow'
-
-Windows:
-    'pip install tkinter pillow'
+Linux: `apt/dnf install python3-tkinter python3-pillow`
+Windows: `pip install tkinter pillow`
 
 ## Run
 
